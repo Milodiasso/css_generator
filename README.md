@@ -11,7 +11,7 @@
   
 # OPTIONS
 
-  -r, -- recursive 
+  -r, -- recursive \n
   Look for images into the assets_folder passed as arguement and all of its subdirectories.
 
   -i, -- output-image=IMAGE
